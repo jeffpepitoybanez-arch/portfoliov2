@@ -1630,7 +1630,7 @@ footer{
       <div class="project-card reveal">
         <div class="project-thumb">
           <!-- REPLACE src with a workflow screenshot or diagram -->
-          <img src="https://placehold.co/600x375/07090f/4ade80?text=Automation+Screenshot" alt="Automation 1"/>
+          <img src="https://i.imgur.com/SMPPu1S.png" alt="Automation 1"/>
           <div class="project-thumb-overlay">
             <a href="#" target="_blank" class="project-view-btn">
               View Details
@@ -1640,8 +1640,8 @@ footer{
         </div>
         <div class="project-body">
           <div class="project-cat-tag" style="color:#4ade80"><span class="project-cat-dot" style="background:#4ade80"></span>Automation</div>
-          <div class="project-title">Project Title Here</div>
-          <p class="project-desc">Describe what the automation does — the trigger, workflow steps, and the outcome it delivers for the client.</p>
+          <div class="project-title">Client Onboarding & Contract System</div>
+          <p class="project-desc">A fully automated client onboarding system that handles contract signing, document generation, and tracking eliminating manual work and ensuring a seamless client experience.</p>
           <div class="project-tags">
             <span class="project-tag">GoHighLevel</span>
             <span class="project-tag">Lead Nurture</span>
@@ -1653,7 +1653,7 @@ footer{
       <!-- Card 2 -->
       <div class="project-card reveal">
         <div class="project-thumb">
-          <img src="https://placehold.co/600x375/07090f/4ade80?text=Automation+Screenshot" alt="Automation 2"/>
+          <img src="https://i.imgur.com/hutpvA5.png" alt="Automation 2"/>
           <div class="project-thumb-overlay">
             <a href="#" target="_blank" class="project-view-btn">
               View Details
@@ -1663,8 +1663,8 @@ footer{
         </div>
         <div class="project-body">
           <div class="project-cat-tag" style="color:#4ade80"><span class="project-cat-dot" style="background:#4ade80"></span>Automation</div>
-          <div class="project-title">Project Title Here</div>
-          <p class="project-desc">Describe what the automation does — the trigger, workflow steps, and the outcome it delivers for the client.</p>
+          <div class="project-title">Payment Tracking & Sales Dashboard System</div>
+          <p class="project-desc">An integrated automation that captures transactions from GoHighLevel and Whop, logs them into a centralized spreadsheet, calculates real-time sales metrics (daily, weekly, and monthly), and instantly notifies the business owner for accurate tracking and decision-making.</p>
           <div class="project-tags">
             <span class="project-tag">Zapier</span>
             <span class="project-tag">CRM Sync</span>
@@ -1675,7 +1675,7 @@ footer{
       <!-- Card 3 -->
       <div class="project-card reveal">
         <div class="project-thumb">
-          <img src="https://placehold.co/600x375/07090f/4ade80?text=Automation+Screenshot" alt="Automation 3"/>
+          <img src="https://i.imgur.com/hutpvA5.png" alt="Automation 3"/>
           <div class="project-thumb-overlay">
             <a href="#" target="_blank" class="project-view-btn">
               View Details
@@ -1685,8 +1685,8 @@ footer{
         </div>
         <div class="project-body">
           <div class="project-cat-tag" style="color:#4ade80"><span class="project-cat-dot" style="background:#4ade80"></span>Automation</div>
-          <div class="project-title">Project Title Here</div>
-          <p class="project-desc">Describe what the automation does — the trigger, workflow steps, and the outcome it delivers for the client.</p>
+          <div class="project-title">Deal Tracking & Notification System</div>
+          <p class="project-desc">An automated workflow that records deals from Whop & GoHighLevel, logs them into a centralized spreadsheet, calculates pipeline metrics (open deals, won/lost deals, and total value), and sends real-time notifications to the owner streamlining deal management and ensuring accurate performance tracking.</p>
           <div class="project-tags">
             <span class="project-tag">Make</span>
             <span class="project-tag">Chatbot</span>
@@ -1698,7 +1698,7 @@ footer{
       <!-- Card 4 -->
       <div class="project-card reveal">
         <div class="project-thumb">
-          <img src="https://placehold.co/600x375/07090f/4ade80?text=Automation+Screenshot" alt="Automation 4"/>
+          <img src="https://i.imgur.com/Ew7ukRH.png" alt="Automation 4"/>
           <div class="project-thumb-overlay">
             <a href="#" target="_blank" class="project-view-btn">
               View Details
@@ -1720,7 +1720,7 @@ footer{
       <!-- Card 5 -->
       <div class="project-card reveal">
         <div class="project-thumb">
-          <img src="https://placehold.co/600x375/07090f/4ade80?text=Automation+Screenshot" alt="Automation 5"/>
+          <img src="https://i.imgur.com/Ew7ukRH.png" alt="Automation 5"/>
           <div class="project-thumb-overlay">
             <a href="#" target="_blank" class="project-view-btn">
               View Details
@@ -1742,7 +1742,7 @@ footer{
       <!-- Card 6 -->
       <div class="project-card reveal">
         <div class="project-thumb">
-          <img src="https://placehold.co/600x375/07090f/4ade80?text=Automation+Screenshot" alt="Automation 6"/>
+          <img src="https://i.imgur.com/Ew7ukRH.png" alt="Automation 6"/>
           <div class="project-thumb-overlay">
             <a href="#" target="_blank" class="project-view-btn">
               View Details
